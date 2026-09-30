@@ -1,4 +1,3 @@
-# Emotion-Detection-Music-Player-
 # Emotion-Based Music Player
 
 A computer-vision project that uses a webcam to detect facial expressions
